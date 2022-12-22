@@ -35,6 +35,6 @@
   <a href="https://www.linkedin.com/in/jefferson-frança-desenvolvedor-java" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/je10_franca" target="_blank"><img src= "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_black"></a>
     
-    ![snake gif](https://github.com/Francaferreira/francaferreira/blob/output/github-contribution-grid-snake.svg)
+    ![snake gif](https://github.com/Francaferreira/Francaferreira/blob/output/github-contribution-grid-snake.svg)
     
   </div>
