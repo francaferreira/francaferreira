@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bf&height=180&section=header&text=Jefferson%20Franca%20Ferreira&fontSize=30" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jefferson+Franca+Ferreira;I'm+36+years+old;I+from+São+Paulo,+SP;I+study+engineering+computer+at+FMU;Be+Welcome!+:%29)](https://https://github.com/francaferreira)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jefferson+Franca+Ferreira;I'm+36+years+old;I+from+São+Paulo,+SP;I+study+engineering+computer+at+FMU;Be+Welcome!+:%29)](https://github.com/francaferreira)
 
 
 - 🔭 Hoje trabalho na área de Telecomunicações
