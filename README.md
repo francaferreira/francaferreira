@@ -36,5 +36,5 @@
     <a href="https://twitter.com/je10_franca" target="_blank"><img src= "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_black"></a>
     </div>
     
-    ![snake gif](https://github.com/francaferreira/francaferreira/blob/output/github-contribution-grid-snake.gif)
+    ![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
     
