@@ -55,18 +55,14 @@ Em migração estratégica para **Data Science**, com investimento em formação
 ---
 
 ### 🌐 **Conecte-se!**  
-Jfrancaferreira10@gmai.com
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-ferreira-ds/) 
-> *"A tecnologia transforma problemas em soluções, e os dados são a bússola desse processo."*  
-
----
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-jeffersonferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-ferreira-ds/)](https://www.linkedin.com/in/jefferson-ferreira-ds/)
 [![Instagram Badge](https://img.shields.io/badge/-jeff_ferreira10-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jeff_ferreira10/)](https://www.instagram.com/jeff_ferreira10/)
 [![Gmail Badge](https://img.shields.io/badge/-jfrancaferreira10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=jfrancaferreira10@gmail.com)](jfrancaferreira10@gmail.com)
 [![X Badge](https://img.shields.io/badge/-dev_jefferson-000000?style=flat-square&labelColor=000000&logo=X&link=https://x.com/je10_franca/)](https://x.com/je10_franca)
+> *"A tecnologia transforma problemas em soluções, e os dados são a bússola desse processo."*  
+
 ---
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -205,9 +201,10 @@ Jfrancaferreira10@gmai.com
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<br/>
+<br/>
 
-<br/>
-<br/>
+---
 
 ### 📊 Estatísticas
 
